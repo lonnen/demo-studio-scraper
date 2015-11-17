@@ -1,0 +1,11 @@
+{
+  "name": "demo-studio-scraper",
+  "version": "0.0.0",
+  "description": "a script to scrape the mdn demo studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lonnen",
+  "license": "MPL-2.0"
+}
