@@ -2,6 +2,7 @@
 
 A script to scrap the MDN demo studio and grab some info about all the projects. This prints some stats in CSV format to stdout:
 
+    $ npm install
     $ ./index.js
 
     title,author,views,likes
@@ -17,6 +18,5 @@ A script to scrap the MDN demo studio and grab some info about all the projects.
     ...
 
 Use some standard UNIX magicks to write to a file for analysis
-
 
     $ ./index.js > 2015-11-17.csv
